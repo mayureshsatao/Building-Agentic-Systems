@@ -1,0 +1,25 @@
+Metadata-Version: 2.4
+Name: productivity-agent-system
+Version: 1.0.0
+Summary: Personal Productivity Agentic System using CrewAI
+Author: Your Name
+Requires-Python: >=3.10
+Requires-Dist: crewai>=1.0.0
+Requires-Dist: crewai-tools>=0.1.0
+Requires-Dist: langchain>=0.1.0
+Requires-Dist: langchain-openai>=0.0.2
+Requires-Dist: langchain-community>=0.0.10
+Requires-Dist: python-dotenv>=1.0.0
+Requires-Dist: pandas>=2.0.0
+Requires-Dist: numpy>=1.24.0
+Requires-Dist: requests>=2.31.0
+Requires-Dist: pydantic>=2.0.0
+Provides-Extra: dev
+Requires-Dist: pytest>=7.0.0; extra == "dev"
+Requires-Dist: streamlit>=1.29.0; extra == "dev"
+Requires-Dist: plotly>=5.18.0; extra == "dev"
+Dynamic: author
+Dynamic: provides-extra
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary

@@ -1,0 +1,11 @@
+README.md
+setup.py
+agents/__init__.py
+agents/controller.py
+agents/task_manager.py
+productivity_agent_system.egg-info/PKG-INFO
+productivity_agent_system.egg-info/SOURCES.txt
+productivity_agent_system.egg-info/dependency_links.txt
+productivity_agent_system.egg-info/requires.txt
+productivity_agent_system.egg-info/top_level.txt
+tests/test_system.py
